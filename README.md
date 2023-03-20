@@ -13,7 +13,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MathSanco&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-  
+
+<div align="center">
+<a href="https://www.linkedin.com/in/matheus-santos-costa-1b6345252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ### Main skills:
 ![html5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
